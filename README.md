@@ -1,4 +1,4 @@
-# Flexbox Froggy responses
+# Flexbox Froggy Responses
 
 Here you can find responses to Flexbox Froggy exercises from http://flexboxfroggy.com/.
 
