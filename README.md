@@ -1,6 +1,6 @@
-# Flexbox Froggy Responses
+# Flexbox Froggy Solutions
 
-Here you can find responses to Flexbox Froggy exercises from http://flexboxfroggy.com/.
+Here you can find solutions to Flexbox Froggy exercises from http://flexboxfroggy.com/.
 
 Also take a look to the following resources to learn more about flexbox:
 
@@ -12,7 +12,7 @@ Also take a look to the following resources to learn more about flexbox:
 - https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 - https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/
 
-# Responses
+# Solutions
 
 ## Exercise 01
 
