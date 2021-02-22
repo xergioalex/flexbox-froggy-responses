@@ -2,7 +2,7 @@
 
 Here you can find responses to Flexbox Froggy exercises from http://flexboxfroggy.com/.
 
-Also take a look to following resources to learn more about flexbox:
+Also take a look to the following resources to learn more about flexbox:
 
 - https://flexbox.malven.co/
 - https://jonitrythall.com/content/flexboxsheet.pdf
